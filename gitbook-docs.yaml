@@ -1,0 +1,13 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+version: 1
+
+site:
+  title: FastDyn
+  structure:
+    - type: space
+      key: fastdyn
+      title: FastDyn
+      path: docs
+      default: true
+      content:
+        directory: ./
